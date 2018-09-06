@@ -1,0 +1,101 @@
+<div class="nav-menu">
+<div class="container">
+<ul>
+<li>
+<a href="#">Home</a>
+</li>
+<li>
+<div class="content relative inline bg-9c988d">
+<a href="#" class="toggle-dropdown">LookBook</a>
+<div class="content-drop absolute">
+<ul>
+<li>
+<a href="#" class="bg-a2c39f fs-16px">Sweet-Newborn(44-48)</a>
+</li>
+<li>
+<a href="#" class="bg-c39966 fs-16">Mini Cuties(68-92)</a>
+</li>
+<li>
+<a href="#" class="bg-f8c5ce fs-16">Petites Madames(92-140)</a>
+</li>
+<li>
+<a href="#" class="bg-f7d78c fs-16">Leff Gozers(92-140)</a>
+</li>
+<li>
+<a href="#" class="bg-66746b fs-16">Coole Gasten(128-176)</a>
+</li>
+<li>
+<a href="#" class="bg-f8c5ce fs-16">Pettis tantes(128-176)</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="#">Merken</a>
+</li>
+<li>
+<a href="#">Evenementen</a>
+</li>
+<li>
+<a href="#" >Blog</a>
+</li>
+<li>
+<a href="#">Over Leff</a>
+<ul>
+</div>
+</div>
+
+
+.nav-menu{
+width:100%;
+background-color:#9c988d;
+
+ul{
+text-align: center;
+width: 100%;
+li{
+
+a{
+color:#fff;
+padding: 15px;
+}
+a:hover{
+color: white;
+background-color: #1d1d1b;
+}
+
+
+
+}
+}
+}
+.content:hover .content-drop{
+display: block;
+}
+.content{
+
+.toggle-dropdown{
+display: block;
+color:white;
+}
+.content-drop{
+display: none;
+min-width: 250px;
+height:45px;
+z-index: 1;
+ul{
+li{
+min-width: 250px;
+a{
+
+padding:10px;
+text-align: left;
+}
+a:hover{
+opacity: 0.3;
+}
+}
+}
+}
+}

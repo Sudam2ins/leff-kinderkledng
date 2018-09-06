@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "css/theme-colors.css",
+	"sources": [
+		"css/theme-colors.scss"
+	],
+	"sourcesContent": [
+		"\r\n// Color Schemas\r\n\r\n$theme-ffffff:      #ffffff;\r\n$theme-a2c39f:      #a2c39f;\r\n$theme-000000:      #000000;\r\n$theme-9c988d:      #9c988d;\r\n$theme-1d1d1b:      #1d1d1b;\r\n$theme-f7d78c:      #f7d78c;\r\n$theme-e0d8ca:      #e0d8ca;\r\n$theme-5b5b5b:      #5b5b5b;\r\n$theme-d8d0c0:      #d8d0c0;\r\n$theme-c39966:      #c39966;\r\n$theme-f8c5ce:      #f8c5ce;\r\n$theme-66746b:      #66746b;\r\n$theme-85a7bf:      #85a7bf;\r\n"
+	],
+	"mappings": "",
+	"names": []
+}
